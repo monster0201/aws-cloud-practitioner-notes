@@ -5,7 +5,7 @@ My personal notes while studying for AWS Cloud Practitioner Essentials (AWS Skil
 ## Progress
 
 - [x] Module 1 - Introduction to the Cloud
-- [x ] Module 2 - Compute in the Cloud
+- [x] Module 2 - Compute in the Cloud
 - [ ] Module 3 - Exploring Compute Services
 - [ ] Module 4 - Going Global
 - [ ] Module 5 - Networking
